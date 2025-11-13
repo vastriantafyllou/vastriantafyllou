@@ -5,9 +5,6 @@
 
 ---
 
-# <div align="center">🚀 Full Stack Developer  
-### .NET • React • TypeScript • SQL</div>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Athens-1E90FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-success?style=for-the-badge" />
@@ -18,36 +15,10 @@
 
 ## ✨ About Me  
 
-💻 Full Stack Developer with experience in **React, TypeScript, .NET, EF Core, Java & SQL**  
+💻 Junior Software Developer   
 📚 Student at **Coding Factory (AUEB)**  
-🔥 Writing code **every day** (React apps, APIs, .Net logic)  
-🔄 Building real-world applications & improving continuously  
-💬 Strong background in hospitality → communication, teamwork, client understanding  
+🔥 Writing code **every day** (React apps, APIs, .Net logic)    
 🎯 Goal: Join a solid team as a **Full Stack Developer** in 2025  
-
----
-
-# 🛠️ Tech Stack (Full Stack)
-
-### 🧩 **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css" />
-</p>
-
-### 🔧 **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring" />
-</p>
-
-### 🗄️ **Database**
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-</p>
-
-### ⚙️ **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,rider,visualstudio,vscode" />
-</p>
 
 ---
 
@@ -79,30 +50,12 @@ Model-First EF Core + SQL
 
 ---
 
-# 📊 GitHub Stats (Premium)
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vastriantafyllou&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vastriantafyllou&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="200" src="https://streak-stats.demolab.com?user=vastriantafyllou&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🌐 Activity Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vastriantafyllou&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-# 📬 Connect
+# 📬 Let's Connect 
 
 <div align="center">
+  <a href="https://vastriantafyllou.github.io/my-cv/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20CV-007AFF?style=for-the-badge&logo=docsdotxyz&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/vasileios-triantafyllou-0b028710b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
