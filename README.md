@@ -6,7 +6,7 @@
 ---
 
 # <div align="center">🚀 Full Stack Developer  
-### React • TypeScript • .NET • Java • SQL</div>
+### .NET • React • TypeScript • SQL</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Athens-1E90FF?style=for-the-badge" />
@@ -20,7 +20,7 @@
 
 💻 Full Stack Developer with experience in **React, TypeScript, .NET, EF Core, Java & SQL**  
 📚 Student at **Coding Factory (AUEB)**  
-🔥 Writing code **every day** (React apps, APIs, Java logic)  
+🔥 Writing code **every day** (React apps, APIs, .Net logic)  
 🔄 Building real-world applications & improving continuously  
 💬 Strong background in hospitality → communication, teamwork, client understanding  
 🎯 Goal: Join a solid team as a **Full Stack Developer** in 2025  
@@ -51,7 +51,7 @@
 
 ---
 
-# 📌 Featured Full-Stack Projects
+# 📌 Featured Projects
 
 ### 🔹 **GoalTrackerAPI – ASP.NET Core 8 REST API**
 Authentication, Roles, SQL Server, EF Core  
@@ -92,14 +92,6 @@ Model-First EF Core + SQL
 
 ---
 
-# 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vastriantafyllou&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 # 🌐 Activity Graph  
 
 <p align="center">
@@ -111,7 +103,7 @@ Model-First EF Core + SQL
 # 📬 Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vasileios-g-triantafyllou-0b028710b/">
+  <a href="https://www.linkedin.com/in/vasileios-triantafyllou-0b028710b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:triantafyllou.vasileios@gmail.com">
