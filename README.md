@@ -26,7 +26,15 @@
 
 
 # 📊 GitHub Stats:
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vastriantafyllou&theme=dark&hide_border=false" width="400" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vastriantafyllou&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="450" height="158" />
-</div>
+<table style="border:none;">
+  <tr style="border:none;">
+    <td style="border:none;">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=vastriantafyllou&theme=dark&hide_border=false" width="400" height="200" />
+    </td>
+    <td style="border:none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vastriantafyllou&theme=dark&hide_border=false&layout=compact" width="450" height="150" />
+    </td>
+  </tr>
+</table>
+
+
