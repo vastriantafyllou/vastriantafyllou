@@ -1,6 +1,6 @@
 <!-- ANIMATED BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F0FF&size=32&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Vasilis+👋;Junior+Software+Developer+💻;.NET+⋅+React+⋅+TypeScript+;Always+Learning+Always+Building+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F0FF&size=32&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Vasilis+👋;Junior+Software+Developer+💻;.NET+⋅+React+⋅+TypeScript+;Build.+Improve.+Repeat.+;The+journey+is+the+reward!+;" />
 </p>
 
 <p align="center">
@@ -21,44 +21,12 @@
   <img src="https://img.shields.io/badge/%20My%20CV-007AFF?style=for-the-badge&logo=docsdotxyz&logoColor=white"/>
 </a>
 
-
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
----
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=vastriantafyllou&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vastriantafyllou&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-# 📌 Featured Projects
-
-### 🔹 **GoalTrackerAPI – ASP.NET Core 8 REST API**
-Authentication, Roles, SQL Server, EF Core  
-🔗 https://github.com/vastriantafyllou/GoalTrackerAPI  
-
----
-
-### 🔹 **CF8 React CRUD App**
-React + TypeScript CRUD with reusable components  
-🔗 https://github.com/vastriantafyllou/cf8-react-crud  
-
-### 🔹 **CF8 TODO App**
-React Hooks + clean UI  
-🔗 https://github.com/vastriantafyllou/cf8-react-todo-app  
-
----
-
-### 🔹 **SchoolApp – Java OOP**
-Menu system, custom logic, exercises  
-🔗 https://github.com/vastriantafyllou/schoolapp-ssr  
-
-### 🔹 **Web8MvcModelFirstPro – ASP.NET MVC**
-Model-First EF Core + SQL  
-🔗 https://github.com/vastriantafyllou/Web8MvcModelFirstPro  
-
----
-
-<p align="center"><i>"Build. Improve. Repeat. The journey is the reward."</i></p>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vastriantafyllou&theme=dark&hide_border=false" width="450" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vastriantafyllou&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="450" height="177" />
+</div>
