@@ -14,7 +14,7 @@
 💻 Junior Software Developer   
 📚 Student at **Coding Factory (AUEB)**  
 🔥 Writing code **every day** (React apps, APIs, .Net logic)    
-🎯 Goal: Join a solid team as a **Full Stack Developer** in 2025 
+🎯 Goal: Join a solid team as a **Full Stack Developer**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasileios-triantafyllou-0b028710b) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:triantafyllou.vasileios@gmail.com) <a href="https://vastriantafyllou.github.io/my-cv/" target="_blank">
