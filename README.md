@@ -26,12 +26,13 @@ Junior Software Developer with hands-on experience in full-stack projects using 
 <table style="border:none;">
   <tr style="border:none;">
     <td style="border:none;">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=vastriantafyllou&theme=dark&hide_border=false" width="400" height="200" />
+      <img src="https://streak-stats.demolab.com?user=vastriantafyllou&theme=dark&hide_border=false" width="400" height="200" />
     </td>
     <td style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vastriantafyllou&theme=dark&hide_border=false&layout=compact" width="450" height="150" />
+      <img src="https://github-readme-stats-git-masterorgstats.vercel.app/api/top-langs/?username=vastriantafyllou&layout=compact&theme=dark&hide_border=false" width="450" height="150" />
     </td>
   </tr>
 </table>
+
 
 
