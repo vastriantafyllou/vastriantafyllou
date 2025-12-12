@@ -24,7 +24,7 @@ Junior Software Developer with hands-on experience in full-stack projects using 
 
 ## 📊 GitHub Stats:
 
-<img src="https://streak-stats.demolab.com?user=vastriantafyllou&theme=dark&hide_border=false" width="500"/>
+<img src="https://streak-stats.demolab.com?user=vastriantafyllou&theme=dark&hide_border=false" width="100%"/>
 
 
 
