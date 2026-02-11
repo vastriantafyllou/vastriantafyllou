@@ -11,7 +11,7 @@
 
 ## ✨ About Me  
 
-Junior Software Developer with hands-on experience in full-stack projects using C# (.NET), Java (Spring Boot) and React / TypeScript. Strong interest in both back-end logic development and the creation of exceptional user interfaces.
+Full-Stack Software Developer with hands-on experience in designing and implementing production-ready web applications using <strong>.NET 8</strong> and <strong>React / TypeScript</strong>. Strong focus on building secure back-end APIs, clean architecture, and intuitive user interfaces. Comfortable working end-to-end, from database design to UI implementation, with a solid background in team leadership, problem-solving, and customer-oriented environments.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasileios-triantafyllou-0b028710b) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:triantafyllou.vasileios@gmail.com) <a href="https://vastriantafyllou.github.io/my-cv/" target="_blank">
